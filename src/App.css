@@ -1,0 +1,122 @@
+h1 {
+  font-size: 175%;
+}
+
+/*Containers*/
+.App {
+  color: black;
+  background-color: grey;
+  display: grid;
+}
+
+.container {
+  grid-row: 1 / span 1;
+  height: 39vh;
+  width: 47.9vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: 1vh;
+}
+
+.library {
+  grid-column: 1 / span 2;
+  grid-row: 2 / span 1;
+  display: inline;
+  border-top: 0.5vh groove;
+  height: 58.5vh;
+  width: 98vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-bottom: 1vh;
+}
+
+
+.login { 
+  display: grid;
+  grid-template-columns: 41.5vw 17vw 41.5vw;
+  grid-template-rows: 29vh 42vh 29vh;
+
+}
+.popup {
+  background-color: whitesmoke;
+  grid-column: 2 / span 1;
+  grid-row: 2 / span 1;
+  text-align: center;
+  border: groove;
+}
+
+.dropdown {
+  height: 24vh;
+  width: 20vw;
+  grid-column: 1/span 1;
+}
+
+.marginal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/*Elements*/
+.listbox {
+  background-color: whitesmoke;
+  border: groove;
+  overflow: auto;
+}
+
+.drop-menu {
+  background-color: whitesmoke;
+  width: inherit;
+  max-height: 20vh;
+  overflow: auto;
+}
+
+.filter-tags {
+  background-color: whitesmoke;
+  width: inherit;
+  height: 21vh;
+  overflow: auto;
+  border: groove;
+}
+
+.input-bar {
+  background-color: whitesmoke;
+  font-size: 125%;
+  padding: 5px;
+  margin-bottom: 1vh;
+}
+
+
+.button {
+  font-size: 125%;
+  padding: 5px;
+  height: 2em;
+  width: 100%;
+}
+
+.tag {
+  font-size: 125%;
+  width: 20vw;
+  height: 2em;
+}
+
+
+/*HTML Fragments*/
+
+.text {
+  font-size: 125%;
+  text-align: left;
+  margin: 10px;
+}
+
+.property {
+  font-size: 125%;
+  text-align: left;
+  margin: 10px;
+}
+
+/*Hover*/
+.text:hover {
+  background-color: grey;
+  color: whitesmoke;
+}

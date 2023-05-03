@@ -1,0 +1,21 @@
+[{
+    "nameStr": "Red Apple",
+    "prop_list": ["Red", "Sweet"]
+  },
+  {
+    "nameStr": "Granny Smith Apple",
+    "prop_list": ["Green", "Sour"]
+  },
+  {
+    "nameStr": "Banana",
+    "prop_list": ["Yellow", "Sweet"]
+    },
+  {
+    "nameStr": "Pineapple",
+    "prop_list": ["Yellow", "Sour"]
+  },
+  {
+    "nameStr": "Pear",
+    "prop_list": ["Green", "Sweet"]
+  }
+]
