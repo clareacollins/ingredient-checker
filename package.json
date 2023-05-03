@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
   "version": "0.1.0",
-  "homepage": "https://clareacollins.github.io/react-gh-pages",
+  "homepage": "https://clareacollins.github.io/ingredient-checker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
