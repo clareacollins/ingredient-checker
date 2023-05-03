@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ingredient-checker/static/css/main.7feba326.css",
+    "main.js": "/ingredient-checker/static/js/main.b133944d.js",
+    "static/js/787.5480e000.chunk.js": "/ingredient-checker/static/js/787.5480e000.chunk.js",
+    "index.html": "/ingredient-checker/index.html",
+    "main.7feba326.css.map": "/ingredient-checker/static/css/main.7feba326.css.map",
+    "main.b133944d.js.map": "/ingredient-checker/static/js/main.b133944d.js.map",
+    "787.5480e000.chunk.js.map": "/ingredient-checker/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7feba326.css",
+    "static/js/main.b133944d.js"
+  ]
+}
